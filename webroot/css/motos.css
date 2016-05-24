@@ -1,0 +1,6 @@
+.white, .white a, .white  a:hover{
+    color: white;
+}
+@media print{
+    table, .callout{ page-break-inside:avoid; }
+}
